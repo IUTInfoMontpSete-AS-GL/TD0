@@ -1,6 +1,6 @@
 # <img src="ressources/logo.jpeg" width="17%" style="margin:auto;display:block;"/> Conception et Programmation Objet Avancées 
 ### IUT Montpellier-Sète – Département Informatique
-* **Cours:** [GL](http://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf) - cours [ici](https://github.com/IUTInfoMontpSete-AS-GL/Ressources)
+* **Cours:** [ici](https://github.com/IUTInfoMontpSete-AS-GL/Ressources)
 * **Enseignant:**  [Nadjib Lazaar](mailto:nadjib.lazaar@umontpellier.fr) 
 * [Fiche TD1](TD1.pdf).
 
