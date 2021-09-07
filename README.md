@@ -4,7 +4,7 @@
 * **Enseignant:**  [Nadjib Lazaar](mailto:nadjib.lazaar@umontpellier.fr) 
 * [Fiche TD1](TD1.pdf).
 
-* Lien classroom : https://classroom.github.com/a/hzso_Cia
+* Lien classroom : https://classroom.github.com/a/cuA4TkzU
 
 ### Prise en main des outils
 Tous les TDs de CPOA seront hébergés dans l'organisation GitHub du module :
