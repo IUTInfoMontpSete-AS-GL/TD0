@@ -2,7 +2,7 @@
 ### IUT Montpellier-Sète – Département Informatique
 * **Cours:** [ici](https://github.com/IUTInfoMontpSete-AS-GL/Ressources)
 * **Enseignant:**  [Nadjib Lazaar](mailto:nadjib.lazaar@umontpellier.fr) 
-* [Fiche TD1](TD1.pdf).
+* [Fiche TD0](TD0.pdf).
 
 * Lien classroom : https://classroom.github.com/a/cuA4TkzU
 
